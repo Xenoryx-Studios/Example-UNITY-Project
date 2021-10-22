@@ -10,40 +10,40 @@
 
 #### Our Roles:
 
-[comment]: # [PROGRAMMING ROLES]   
+[comment]: # (PROGRAMMING ROLES)   
 Programming | Software | Users
 ------------|----------|-------------------
 Language Used | Software / Engine Used | Developer Name
-[comment]: <> (Replace "Language Used" with the Programming Language used ; Example: C#, C++, Lua)
-[comment]: <> (Replace "Software / Engine Used" with the corresponding program the developer used the language in)
-[comment]: <> (Replace "Developer Name" with the Developer assigned to this role)
+[comment]: # (Replace "Language Used" with the Programming Language used ; Example: C#, C++, Lua)
+[comment]: # (Replace "Software / Engine Used" with the corresponding program the developer used the language in)
+[comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 
-[comment]: <> (DESIGN ROLES)
+[comment]: # (DESIGN ROLES)
 Art & Design | Software | Users
 -------------|----------|-------------------
 3D Modelling | Software / Engine Used | Developer Name
-[comment]: <> (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
-[comment]: <> (Replace "Developer Name" with the Developer assigned to this role)
+[comment]: # (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
+[comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 Rigging | Software / Engine Used | Developer Name
-[comment]: <> (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
-[comment]: <> (Replace "Developer Name" with the Developer assigned to this role)
+[comment]: # (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
+[comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 Animation | Software / Engine Used | Developer Name
-[comment]: <> (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
-[comment]: <> (Replace "Developer Name" with the Developer assigned to this role)
+[comment]: # (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
+[comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 UI/UX | Software / Engine Used | Developer Name
-[comment]: <> (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
-[comment]: <> (Replace "Developer Name" with the Developer assigned to this role)
+[comment]: # (Replace "Software / Engine Used" with the corresponding program the developer created the assets in)
+[comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 
 
 
 ### Current Build : 0.0.0.0
-[comment]: <> (Replace 0.0.0.0 with the current Build #, as it changes)
+[comment]: # (Replace 0.0.0.0 with the current Build #, as it changes)
 
 #### CHANGELOG:
 
 Build  | Change | Stage
 ----------|----------|----------
-[comment]: <> (PRE-ALPHA)
+[comment]: # (PRE-ALPHA)
 0.0.0.0 | Project Creation | Pre-Alpha
 0.0.0.1 | Changelog Entry | Pre-Alpha
 0.0.0.2 | Changelog Entry | Pre-Alpha
@@ -54,9 +54,9 @@ Build  | Change | Stage
 0.0.0.7 | Changelog Entry | Pre-Alpha
 0.0.0.8 | Changelog Entry | Pre-Alpha
 0.0.0.9 | Changelog Entry | Pre-Alpha
-[comment]: <> (ALPHA)
+[comment]: # (ALPHA)
 0.0.1.0 | Changelog Entry | Alpha
-[comment]: <> (BETA)
+[comment]: # (BETA)
 0.1.0.0 | Changelog Entry | Beta
-[comment]: <> (RELEASE)
+[comment]: # (RELEASE)
 1.0.0.1 | Changelog Entry | Release
