@@ -1,16 +1,16 @@
 # Example Unity Project - Build Stage
-[comment]: <> (Replace "Example Unity Project" with your Project Name)
-[comment]: <> (Replace "Build Stage" with the current Build Stage ; Example: Pre-Alpha, Alpha, etc)
+[comment]: # (Replace "Example Unity Project" with your Project Name)
+[comment]: # (Replace "Build Stage" with the current Build Stage ; Example: Pre-Alpha, Alpha, etc)
 
 ## A game about *theme*
-[comment]: <> (Replace *theme* with your)
+[comment]: # (Replace *theme* with your)
 
 ### A *genre type* by *Your Studio Name*
-[comment]: <> (Replace *genre type* with your game's genre)
+[comment]: # (Replace *genre type* with your game's genre)
 
 #### Our Roles:
 
-[comment]: <> (PROGRAMMING ROLES)
+[comment]: # [PROGRAMMING ROLES]   
 Programming | Software | Users
 ------------|----------|-------------------
 Language Used | Software / Engine Used | Developer Name
