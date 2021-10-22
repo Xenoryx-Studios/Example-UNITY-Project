@@ -10,7 +10,8 @@
 
 #### Our Roles:
 
-[comment]: # (PROGRAMMING ROLES)   
+[comment]: # (PROGRAMMING ROLES)
+
 Programming | Software | Users
 ------------|----------|-------------------
 Language Used | Software / Engine Used | Developer Name
@@ -20,6 +21,7 @@ Language Used | Software / Engine Used | Developer Name
 [comment]: # (Replace "Developer Name" with the Developer assigned to this role)
 
 [comment]: # (DESIGN ROLES)
+
 Art & Design | Software | Users
 -------------|----------|-------------------
 3D Modelling | Software / Engine Used | Developer Name
